@@ -1,0 +1,7 @@
+Dataset    :  Phishing Websites Data Set
+Source     :  UCI Machine learning Repository
+URL        :  https://archive.ics.uci.edu/ml/datasets/phishing+websites
+Algorithms :  -Descision Trees
+              -Logistic Regression
+              -Random Forest
+              -SVM Classifiers
