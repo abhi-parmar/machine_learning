@@ -7,3 +7,4 @@ Status      :    Complete
 About       :    Predict Maximum Temperature for a day , given features such as humidity , minimum temperature ,etc.
 
 Note        :    I am also linking the cleaned data , which includes removing features which were not necessary to predict max. temperature, features that had 98% missing values and repetitive features( same features in different units of measurement.)  , filling missing values for important features.
+                 The 'sta' column in cleaned_.csv is the weather station ID. I am also linking the file about the weather stations.
