@@ -1,0 +1,9 @@
+Name        :    Weather conditions in World War Two
+Source      :    Kaggle
+URL         :    https://www.kaggle.com/smid80/weatherww2/data
+Algorithm   :    Linear Regression
+Status      :    Complete
+
+About       :    Predict Maximum Temperature for a day , given features such as humidity , minimum temperature ,etc.
+
+Note        :    I am also linking the cleaned data , which includes removing features which were not necessary to predict max. temperature, features that had 98% missing values and repetitive features( same features in different units of measurement.)  , filling missing values for important features.
